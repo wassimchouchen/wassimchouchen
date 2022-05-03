@@ -13,6 +13,7 @@ My name is wassim chouchen and I'm an computer science student Student. I'm from
 
 ## What am I up to?
 
+- 💬 working on real amazing projects
 - 🔭 I’m currently learning Pytorch and tensorflow for computervision, data analytics, NLP , and ReactJs NodeJs on the side !
 - 💬 active membre in IEEE ENSI SB  ARE and OSSEC
 - 👨‍🏫 kaggle expert
