@@ -9,14 +9,14 @@
 </h1>
 
 <h5 align="center">
-My name is wassim chouchen and I'm an computer science student Student. I'm from Tunisia , living in Eljem a. I'm passionate about machine learning deep learning, computer vision and NLP
+My name is wassim chouchen and I'm an computer science student Student. I'm from Tunisia. I'm passionate about machine learning deep learning, computer vision and NLP
 
 ## What am I up to?
 
 - 💬 working on real amazing projects and use cases ||  Project Manager at OSSEC
 - 🔭 I’m currently learning Pytorch and tensorflow  for computervision, data analytics, NLP , and ReactJs Django on the side !
 - 💬 active membre in IEEE ENSI SB  ARE and EMC
-- 👨‍🏫 Mentor at FOSS Overflow 
+- 👨‍🏫 Former mentor at FOSS Overflow, TMLC, AIISC 
 - 📫 How to reach me: wassim.chouchenne@ensi-uma.tn
 ## My Absolute Favorites:
 - 💻   I love exploring new tech building technology that help people.
