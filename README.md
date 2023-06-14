@@ -9,7 +9,7 @@
 </h1>
 
 <h5 align="center">
-My name is wassim chouchen and I'm an computer science student Student. I'm from Tunisia. I'm passionate about machine learning deep learning, computer vision and NLP
+My name is wassim chouchen and I'm an computer science student. I'm from Tunisia. I'm passionate about machine learning deep learning, computer vision and NLP
 
 ## What am I up to?
 
