@@ -13,7 +13,7 @@ My name is wassim chouchen and I'm an computer science student. I'm from Tunisia
 
 ## What am I up to?
 
-- 💬 working on real amazing projects and use cases ||  Project Manager at OSSEC
+- 💬 working on real world projects and use cases ||  Freelancer @Upwork
 - 🔭 I’m currently learning Pytorch and tensorflow  for computervision, data analytics, NLP , and ReactJs Django on the side !
 - 💬 active membre in IEEE ENSI SB  ARE and EMC
 - 👨‍🏫 Former mentor at FOSS Overflow, TMLC, AIISC 
