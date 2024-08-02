@@ -13,7 +13,7 @@ My name is wassim chouchen and I'm an computer science student. I'm from Tunisia
 
 ## What am I up to?
 
-- 💬 working on awesome real world projects and use cases ||  Level One Freelancer @ Upwork&Fiverr
+- 💬 working on awesome real world projects and use cases ||  Level Two Freelancer @ Upwork&Fiverr
 - 💬 active membre in IEEE ENSI SB  ARE and EMC
 - 👨‍🏫 Former mentor at FOSS Overflow, TMLC, AIISC 
 - 📫 How to reach me: wassim.chouchenne@ensi-uma.tn
