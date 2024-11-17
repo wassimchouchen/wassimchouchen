@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Generative AI Engineer and Computer Science student from Tunisia, specializing in Machine Learning, Deep Learning, and Natural Language Processing. Currently working as an AI Engineer at Yanyi while pursuing my degree at the National School of Computer Science.
+I'm a Generative AI Engineer from Tunisia, specializing in Machine Learning, Deep Learning, and Natural Language Processing. Currently working as an AI Engineer at Yanyi while pursuing my degree at the National School of Computer Science.
 
 💡 I'm passionate about:
 - Large Language Models (LLMs) & RAG Systems
