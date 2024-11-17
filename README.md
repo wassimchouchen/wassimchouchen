@@ -33,7 +33,7 @@ I'm a Generative AI Engineer from Tunisia, specializing in Machine Learning, Dee
 
 ## 🚀 Current Endeavors
 
-- 🔭 AI Engineer at Yanyi, building advanced medical AI applications
+- 🔭 AI Engineer, building advanced medical AI applications
 - 💻 Level Two Freelancer on Upwork & Fiverr with 5-star feedback from 40+ clients
 - 🌱 Active contributor to open-source LLM projects
 - 🎯 Building RAG systems & AI Agents using LangChain & LangSmith
