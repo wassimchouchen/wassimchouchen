@@ -41,19 +41,23 @@ I'm a Generative AI Engineer from Tunisia, specializing in Machine Learning, Dee
 ## 🛠️ Tech Stack
 
 ```text
-🤖 AI/ML
-- LangChain | LlamaIndex | LangSmith | Hugging Face
-- PyTorch | TensorFlow | Transformers | SBERT
-- Computer Vision | OCR | ASR
+🤖 AI/ML & GenAI
+- LLM Stack: LangChain | LangGraph | LangSmith | LlamaIndex
+- Model Development: Hugging Face | Transformers | SBERT | Unsloth
+- Deep Learning: PyTorch | TensorFlow | Fine-tuning | RAG
+- ML Applications: Computer Vision | OCR | ASR
+- GPU Infrastructure: RunPod | AWS SageMaker
 
-💻 Development
-- Python | Django | Flask
-- Docker | Git | REST APIs
-- Azure | AWS
+💻 Development & Infrastructure 
+- Backend: Python | FastAPI | Django | Flask
+- DevOps: Docker | Git | REST APIs
+- Cloud: Azure | AWS | GCP
+- Monitoring: Weights & Biases | MLflow
 
-🔧 Tools
-- Selenium | Beautiful Soup
-- Data Analysis | Data Scraping
+🔧 Data & Tools
+- Data Processing: Pandas | NumPy | Scikit-learn
+- Web Scraping: Selenium | Beautiful Soup 
+- GPU Optimization & Deployment
 ```
 
 ## 🏆 Notable Projects
