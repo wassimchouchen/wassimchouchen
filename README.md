@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Generative AI Engineer from Tunisia, specializing in Machine Learning, Deep Learning, and Natural Language Processing. Currently working as an AI Engineer at Yanyi while pursuing my degree at the National School of Computer Science.
+I'm a Generative AI Engineer from Tunisia, specializing in Machine Learning, Deep Learning, and Natural Language Processing. Currently working as a Machine Learning Engineer, with a Computer Science Engineering degree from the National School of Computer Science (ENSI). With expertise in developing complex AI systems, from LLM-based applications to computer vision solutions, I'm passionate about pushing the boundaries of AI technology.
 
 💡 I'm passionate about:
 - Large Language Models (LLMs) & RAG Systems
@@ -34,7 +34,7 @@ I'm a Generative AI Engineer from Tunisia, specializing in Machine Learning, Dee
 ## 🚀 Current Endeavors
 
 - 🔭 AI Engineer at Yanyi, building advanced medical AI applications
-- 💻 Level Two Freelancer on Upwork & Fiverr with 5-star feedback from 26+ clients
+- 💻 Level Two Freelancer on Upwork & Fiverr with 5-star feedback from 40+ clients
 - 🌱 Active contributor to open-source LLM projects
 - 🎯 Building RAG systems & AI Agents using LangChain & LangSmith
 
