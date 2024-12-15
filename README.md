@@ -16,7 +16,11 @@
   <a href="https://www.kaggle.com/wassimchouchen">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
+  <a href="https://huggingface.co/wassimm">
+    <img src="https://img.shields.io/badge/HuggingFace-fc62ff?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
 </p>
+
 
 ## 👨‍💻 About Me
 
