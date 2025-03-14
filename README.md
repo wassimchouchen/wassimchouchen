@@ -27,6 +27,7 @@
 I'm a Generative AI Engineer from Tunisia, specializing in Machine Learning, Deep Learning, and Natural Language Processing. Currently working as a Machine Learning Engineer, with a Computer Science Engineering degree from the National School of Computer Science (ENSI). With expertise in developing complex AI systems, from LLM-based applications to computer vision solutions, I'm passionate about pushing the boundaries of AI technology.
 
 💡 I'm passionate about:
+- Multi Agent Systems
 - Large Language Models (LLMs) & RAG Systems
 - Computer Vision Applications
 - Natural Language Processing
@@ -37,26 +38,26 @@ I'm a Generative AI Engineer from Tunisia, specializing in Machine Learning, Dee
 
 ## 🚀 Current Endeavors
 
-- 🔭 AI Engineer, building advanced medical AI applications
+- 🔭 AI Engineer, building advanced medical & Data AI platforms
 - 💻 Level Two Freelancer on Upwork & Fiverr with 5-star feedback from 40+ clients
 - 🌱 Active contributor to open-source LLM projects
-- 🎯 Building RAG systems & AI Agents using LangChain & LangSmith
+- 🎯 Building RAG systems & AI Agents using LangChain & CrewAI
 
 ## 🛠️ Tech Stack
 
 ```text
 🤖 AI/ML & GenAI
-- LLM Stack: LangChain | LangGraph | LangSmith | LlamaIndex
+- LLM Stack: CrewAI | LangChain | LangGraph | LangSmith | LlamaIndex
 - Model Development: Hugging Face | Transformers | SBERT | Unsloth
 - Deep Learning: PyTorch | TensorFlow | Fine-tuning | RAG
 - ML Applications: Computer Vision | OCR | ASR
-- GPU Infrastructure: RunPod | AWS SageMaker
+- GPU Infrastructure: RunPod | AWS SageMaker | Hugging Face
 
 💻 Development & Infrastructure 
 - Backend: Python | FastAPI | Django | Flask
 - DevOps: Docker | Git | REST APIs
 - Cloud: Azure | AWS | GCP
-- Monitoring: Weights & Biases | MLflow
+- Monitoring: Weights & Biases | Langtrace
 
 🔧 Data & Tools
 - Data Processing: Pandas | NumPy | Scikit-learn
